@@ -1,0 +1,36 @@
+*
+{
+    margin: 0%;
+}
+div{
+    background-color: black;
+    height: 630px;
+    color: rgb(180, 180, 180);
+}
+.divver{
+    margin-left: 40%;
+    height: 60px;
+      
+}
+input{
+    border-style: none;
+    background-color: black;
+    outline: none;
+    color: rgb(180, 180, 180);
+    border-bottom: 2px solid rgb(180, 180, 180);
+    
+}
+button{
+    background-color: rgb(38, 155, 201);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    padding: 10px;
+}
+#cancel{
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 2px;
+    padding: 10px;
+}
